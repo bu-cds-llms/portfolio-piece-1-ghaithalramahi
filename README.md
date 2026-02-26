@@ -13,7 +13,7 @@ Before training, the attention patterns are largely random and unstructured, oft
 1.  **Open the notebook** in Google Colab or any compatible Jupyter environment.
 2.  **Run all cells sequentially** from top to bottom.
     *   Ensure all necessary packages are installed (see Requirements section).
-    *   The notebook will perform tokenization, embedding, demonstrate single-head and multi-head attention (with random weights), and then train a single-head attention classifier. Note the training is computationally intensive, so I would recommend using GPU as your resource in Google Colab.
+    *   The notebook will perform tokenization, embedding, demonstrate single-head and multi-head attention (with random weights), and then train a single-head attention classifier. Note the training is computationally intensive, so I would recommend using a GPU as your resource in Google Colab.
     *   Finally, it will visualize the attention patterns before and after training.
 
 ## Requirements
